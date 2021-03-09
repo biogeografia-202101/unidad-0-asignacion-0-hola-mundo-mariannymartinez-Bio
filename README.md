@@ -37,6 +37,6 @@ Tan pronto hayas verificado que estás trabajando en tu repo, haz una modificaci
 
 3. En modo edición, escribe tus nombres y apellidos, sustituyendo los puntos suspensivos que verás a continuación por tu respuesta:
 
-  * Tu respuesta aquí: ...
+  * Tu respuesta aquí:Marianny Altagracia Martinez Manzueta 
   
 4. Al finalizar, ve al fondo y presiona `Commit changes`.
